@@ -23,7 +23,7 @@ To run the application, make sure you have the following installed:
 1. Clone the repository:
 
 ```shell```
-git clone https://github.com/your-username/dao-pattern-jdbc.git
+git clone 
 
 2. Create a MySQL database named bookdb2.
 
